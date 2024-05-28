@@ -1,0 +1,73 @@
+body{
+    display: block;
+    background-color: rgb(226, 226, 201);
+}
+.pic1a{
+    border-radius: 60%;
+    position: relative;
+    bottom: 500px;
+    left: 650px;
+}
+.pic1b{
+    border-radius: 60%;
+    position: relative;
+    bottom: 350px;
+    left: 480px;
+}
+.pic2{
+    border-radius: 60%;
+}
+
+.div1{
+    width: auto; height:max-content;
+    background-color: rgb(231, 197, 197);
+    margin: 20px 30px 20px 30px;
+
+}
+.One{
+    position: relative;
+    padding-top: 200px;
+    margin-left: 80px;
+}
+.paga1{
+    position: relative;
+    margin-left: 80px;
+}
+.paga2{
+    position: relative;
+    margin-left: 85px;
+    font-size: 20px; 
+    color: azure; 
+    text-align:center;
+    background-color: brown; 
+    border-radius: 20px;20px;20px;20px; 
+    width: 100px;
+    padding: 10px
+}
+.table{
+    width: 80%;
+    background-color: rgb(252, 236, 218);
+    border-radius: 50px 50px 50px 50px;
+    font-size: 18px;
+    padding:15px;
+    th{font-size: 30px;}
+}
+.table1{
+    position: relative;
+    width: 100%;
+    background-color: rgb(61, 61, 61);
+    td{
+        color: beige;
+    }
+    padding-top: 15%;
+    padding-bottom: 7%;
+}
+.pic3{
+    border-radius: 10px 10px 10px 10px;
+}
+.div2{
+    display:block;
+    position: relative;
+    margin-left: 189px;
+    bottom: 650px;
+}

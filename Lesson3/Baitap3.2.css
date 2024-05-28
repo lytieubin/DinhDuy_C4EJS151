@@ -1,0 +1,44 @@
+.img {
+    border-radius: 50%;
+}
+
+.center {
+    text-align: center;
+}
+
+#Bảng th {
+    background-color: yellow;
+}
+
+#avatar {
+    display: block;
+    margin: auto;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.school {
+    color: red;
+}
+
+.contactSection {
+    margin-top: 50px;
+}
+
+.contact {
+    display: inline-block;
+}
+
+.telephone {
+    display: inline-block;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/003/720/498/original/phone-icon-telephone-icon-symbol-for-app-and-messenger-vector.jpg');
+    height: 50px;
+    width: 150px;
+    border: solid 1px;
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+}
