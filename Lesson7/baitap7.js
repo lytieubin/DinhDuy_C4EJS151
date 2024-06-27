@@ -10,8 +10,7 @@ console.log("Chu vi hình chữ nhật là: " + perimeter);
 
 //cau 2
 let S = 12345;
-S = parseInt(S, 10);
-
+S = parseInt (S, 10);
 let gio = Math.floor(S / 3600);
 let phut = Math.floor((S % 3600) / 60);
 let giay = S % 60;
@@ -63,8 +62,7 @@ let soDuong = 10;
 
 if (soDuong > 0) {
     console.log(soDuong + " true");
-} else {
-    console.log(soDuong + " false");
+} else { console.log(soDuong + " false");
 }
 // cau 9
 let nam = 2024;
