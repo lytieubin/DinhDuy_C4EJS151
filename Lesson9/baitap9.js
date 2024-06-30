@@ -1,4 +1,5 @@
 // Câu 1
+console.log('CÂU 1');
 var numbers = [1, 2, 3, 4, 2, 1, 3, 2, 4, 2];
 var targetCounting = 2;
 
@@ -11,7 +12,7 @@ for (let i = 0; i < numbers.length; i++) {
 console.log(count); 
 
 //Câu 2
-
+console.log('CÂU 2');
 var numbers = [5, 2, 9, 3, 7, 11, 8];
 let maxNumber = numbers[0];
 for (let i = 0; i < numbers.length; i++) {
@@ -22,7 +23,7 @@ for (let i = 0; i < numbers.length; i++) {
 console.log(maxNumber)
 
 //CÂu 3
-
+console.log('CÂU 3');
 var array = [1, 2, 3, 4, 5];
 
 var reversedArray = [];
@@ -33,7 +34,7 @@ for (let i = array.length - 1; i >= 0; i--) {
 console.log(reversedArray);
 
 // câu 4
-
+console.log('CÂU 4');
 var duplicatesArray = [1, 2, 2, 3, 4, 4, 5];
 
 var uniqueArray = [];
@@ -46,7 +47,7 @@ for (let i = 0; i < duplicatesArray.length; i++) {
 console.log(uniqueArray);
 
 // câu 5
-
+console.log('CÂU 5');
 const students = [
     { name: "Duy", age: 20, grades: [80, 85, 90] },
     { name: "Huy", age: 21, grades: [75, 88, 95] }
@@ -63,7 +64,7 @@ const overallAverage = calculateAverage(averageGrades);
 console.log(overallAverage);
 
 // câu 6
-
+console.log('CÂU 6');
 const products = [
     { name: "Áo", price: 20 },
     { name: "Quần", price: 30 },
@@ -80,7 +81,7 @@ for (let i = 1; i < products.length; i++) {
 console.log(cheapestProduct);
 
 // câu 7
-
+console.log('CÂU 7');
 var students2 = [
     { name: "Alice", age: 20, grades: { math: 90, english: 85, science: 88 } },
     { name: "Bob", age: 21, grades: { math: 80, english: 75, science: 78 } }
